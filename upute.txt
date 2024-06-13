@@ -1,6 +1,6 @@
 Staviti Sopitas file tamo gdje je instaliran xampp u htdocs folder.
 Zatim pokrenuti xampp. Ako se ne moze pokrenuti MySQL otici u task manager, pa services i upisati MySQL80 te ga zaustaviti. Onda probati ponovno upaliti MySQL
-Importati bazu tako da se ode u http://localhost/phpmyadmin/ i tamo ima opcija import
+Importati bazu tako da se ode u http://localhost/phpmyadmin/ napraviti bazu moja_baza i onda stisnuti na nju i imati ce opcija import
 
 admin
 admin
